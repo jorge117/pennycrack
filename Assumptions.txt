@@ -1,0 +1,12 @@
+Penitentia only gives a few stated facts about the code. They are:
+
+1. The tables are all oriented in the same direction as each other. 
+2. There's a sequence in the ordering of the thumbnails. 
+3. Direction of interpretation/reading is consistent across each file.
+
+As of Aug 2016, the following assumptions are in play, affecting the chosen methodology and thought process for analysis of Penitentia.
+
+1. The Penitentia Manuscript is in fact a code masking an intelligble language, natural, machine or otherwise, rather than gibberish.
+2. As Gordon Hyde has abandonded "the set of underlying assumptions" that most modern codes are based upon (see links in main README), we have assumed that the codified language is not English.
+3. Each of the 16 'original' tables is independant of one another, code does not read across from one grid to the next.
+
