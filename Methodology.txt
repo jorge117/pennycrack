@@ -5,7 +5,7 @@ Observations:
 2. Each of the original 16 files is a 12x12 grid of smaller images referred to as 'grids' within this project.
 3. Each grid consists of four horizontal bars (as viewed in the original orientation). These are sometimes referred to as 'carrier bars' or 'bars' within this project.
 4. In the original orientation, the bottom left corner of the bottom carrier bar is always 'blank' or 'empty'. This may hold the key to cracking the code as some sort of point of reference (e.g. least significant bit, most significant bit).
-5. There are 2304 grids in total. Of these, roughly 770 are unique black grids, with roughly 76 unique red grids.
+5. There are 2304 grids in total. Of these, roughly 720 are unique black grids, with roughly 71 unique red grids.
 6. As a ratio, it is more common to have multiples of the same red grid within a table than black grids. It is unclear if this is significant or relevant per table.
 7. It is not uncommon to encounter a pair of identical black grids followed by a red grid, with the same pattern of grids occuring later in the same table (read left to right, top to bottom in original orientation).
 8. Carrier bars in the original orientation can be interpreted to carry 8 binary bits. This can be interpreted by regarding each spine above or below the bar as a bit.
