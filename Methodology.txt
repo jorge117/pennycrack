@@ -12,6 +12,7 @@ Observations:
    A 1 would be represented by a black or red spine, with a 0 represented by the lack of a spine. There are four potential spins above and below each bar, giving the possibility that each bar is an 8-bit word, or that each grid is a 32-bit word.
 9. Following observation 8, there are no fully 1/0 grids of 32-bits. With 2^32 options of 32-bits and closer to 2^11 unique 32-bit strings, it may be more sensible to look at 8 bit words or particular ways of encoding data in 32-bit strings.
 10. The grids do not seem to translate simply in to ASCII characters.
+11. The tables in original format (.png) do not contain any erroneous ARGB values. All pixels are fully red, black or white, with no transparent elements. It has therefore been ruled out that the original png's utilise simple steganography to hide ulterior information. This can be checked with "colourCheck.java" found in src.
 
 Methodology:
 
